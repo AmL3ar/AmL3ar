@@ -17,7 +17,7 @@
 ### Codewars
 
 <a href="https://www.codewars.com/users/AmL3ar"><img src="https://www.codewars.com/users/AmL3ar/badges/large?theme=dark" alt="Codewars" /></a>
-
+<!--
 ### Моя активность
 
 <picture>
@@ -25,7 +25,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmL3ar/AmL3ar/output/github-contribution-grid-snake.svg" />
 <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AmL3ar/AmL3ar/output/github-contribution-grid-snake.svg" />
 </picture>
-
+-->
 ### Socials
 
 <p align="left"><a href="https://www.github.com/AmL3ar" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></picture></a> <a href="https://t.me/KelokZ" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/telegram" width="32" height="32" alt="Telegram" title="Telegram" /></a> <a href="https://www.codewars.com/users/AmL3ar" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codewars/B1361E" width="32" height="32" alt="Codewars" title="Codewars" /></a></p>
