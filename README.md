@@ -1,4 +1,4 @@
-# Доброго времени суток ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Артем Зверев
+<h1 align="left">Доброго времени суток! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" /><br>Меня зовут Артем Зверев <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" /></h1>
 
 ## Я middle fullstack разработчик
 
