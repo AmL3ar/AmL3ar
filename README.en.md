@@ -1,6 +1,7 @@
 <p align="right">
-<a href="https://github.com/AmL3ar/AmL3ar/blob/main/README.md">🇷🇺 RU</a> |
-<a href="https://github.com/AmL3ar/AmL3ar/blob/main/README.en.md">🇬🇧 EN</a>
+<a href="https://github.com/AmL3ar/AmL3ar/blob/main/README.md">RU</a>
+&nbsp;/&nbsp;
+<a href="https://github.com/AmL3ar/AmL3ar/blob/main/README.en.md">EN</a>
 </p>
 
 <h1 align="left">Hello there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" /><br>My name is Artem Zverev <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" /></h1>
