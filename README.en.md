@@ -10,7 +10,6 @@
 
 I handle the full development cycle: requirements → architecture and databases → API → React/TypeScript → testing → CI/CD → deployment and observability. My main focus is FastAPI, PostgreSQL, concurrency, distributed systems, and applied LLM/RAG.
 
-* 🌍 I live in Russia
 * 🖥️ Check out my [portfolio website](http://aml3ar.github.io/Portfolio/)
 * ✉️ You can contact me via email at [artem.zverev.03@bk.ru](mailto:artem.zverev.03@bk.ru)
 
