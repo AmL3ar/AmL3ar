@@ -10,7 +10,6 @@
 
 Веду задачи полного цикла: требования → архитектура и БД → API → React/TypeScript → тесты → CI/CD → deployment и observability. Основной фокус — FastAPI, PostgreSQL, concurrency, distributed systems и прикладные LLM/RAG.
 
-* 🌍 Я живу в России
 * 🖥️ Ссылка на мой [сайт-портфолио](http://aml3ar.github.io/Portfolio/)
 * ✉️ Вы можете связаться со мной по почте [artem.zverev.03@bk.ru](mailto:artem.zverev.03@bk.ru)
 
